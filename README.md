@@ -1,1 +1,1 @@
-# algo-things
+# Algo things
